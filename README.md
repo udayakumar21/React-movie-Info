@@ -22,3 +22,4 @@ Generate API key from : http://www.omdbapi.com/apikey.aspx
 - `styled-components`
 - `axios`
 - `react-scripts`
+
